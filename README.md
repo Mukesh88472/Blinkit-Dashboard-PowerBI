@@ -71,6 +71,4 @@ This dashboard provides a clear understanding of Blinkit’s business performanc
 Mukesh
 Power BI | SQL | Data Analytics
 
-images/ – Screenshots of the dashboard (optional)
-
 README.md – Project documentation
